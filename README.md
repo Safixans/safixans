@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safixans
-- 👀 I’m interested in programming, science (: and many more
-- 🌱 I’m currently learning Hardware engineering
-- 💞️ I’m looking to collaborate on any project
+- 👀 interested in programming and computer science
+- 🌱 currently learning Hardware engineering
+- 💞️ looking to collaborate on any project
 - 📫 How to reach me:
 <a href="mailto:safixongg@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://t.me/safixans">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
