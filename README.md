@@ -1,18 +1,26 @@
-### Hi there 👋, Safixan
-#### Design and Programming Development
-![Design and Programming Development](https://pbs.twimg.com/profile_banners/1731304104750911488/1701610487/600x200)
+- 👋 Hi, I’m @safixans
+- 👀 I’m interested in programming, science (: and many more
+- 🌱 I’m currently learning Hardware engineering
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me:
+<a href="mailto:safixongg@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://t.me/safixans">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-I`m Safixan from Uzbekistan, and I really enjoy learning languages and frameworks like Spring Boot as well as Jakarta EE, afterwards work as a freelancer. I also enjoy wireframing, ui, ux, (figma) and design in general.
 
-Skills: C++/ JAVA / SPRING Boot/ / BOOTSTRAP / JAKARTA EE / SWING UI / SPRING MVC / PYHTON / JS / HTML / CSS / 
+- Skills:
+[![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-%23FF6314?style=for-the-badge&logo=eclipse&logoColor=white)](https://jakarta.ee/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Swing UI](https://img.shields.io/badge/Swing_UI-%23D9534F?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🌱 I’m currently learning Software engineering 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Safixans)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Safixans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@safixan.a.sattarov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Safixans)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Safixans)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslon1213&show_icons=true&theme=radical)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&cover_image=true&theme=novatorem&bar_color=48d043&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&redirect=true)
