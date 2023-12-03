@@ -1,4 +1,6 @@
+
 - 👋 Hi, I’m @safixans
+- 🤓 studying at INHA university in Tashkent
 - 👀 interested in programming and computer science
 - 🌱 currently learning Hardware engineering
 - 💞️ looking to collaborate on any project
