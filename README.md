@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I`m Safixan from Uzbekistan, and I really enjoy learning languages and frameworks like Spring Boot as well as Jakarta EE, afterwards work as freelancer.
+I also enjoy wireframing, ui, ux, (figma) and design in general.
+
+[Anurag's_github stats](https://github-readme-stats.vercel.app/api?username=safixans)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Safixans/safixans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
