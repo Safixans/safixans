@@ -17,10 +17,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Swing UI](https://img.shields.io/badge/Swing_UI-%23D9534F?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![Spring MVC](https://img.shields.io/badge/Spring_MVC-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslon1213&show_icons=true&theme=radical)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&cover_image=true&theme=novatorem&bar_color=48d043&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=5hgh7mdwewiw4cvku5f1mtod4&redirect=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safixansshow_icons=true&theme=radical)
+
