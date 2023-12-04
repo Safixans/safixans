@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @safixans
 - 🤓 studying at INHA university in Tashkent
 - 👀 interested in programming and computer science
-- 🌱 currently learning Hardware engineering
+- 🌱 currently learning Software engineering
 - 💞️ looking to collaborate on any project
 - 📫 How to reach me:
 <a href="mailto:safixongg@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
