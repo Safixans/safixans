@@ -31,4 +31,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safixans&theme=ambient_gradient&show_icons=true)
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
