@@ -51,9 +51,15 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 #### 🧪 Testing & Quality
+<div align="center">
+
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)]()
 [![Mockito](https://img.shields.io/badge/Mockito-999999?style=for-the-badge&logo=java&logoColor=white)]()
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
 [![TestContainers](https://img.shields.io/badge/Testcontainers-3E4E88?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Integration Testing](https://img.shields.io/badge/Integration%20Testing-%23007396?style=for-the-badge&logo=testing-library&logoColor=white)]()
+
+</div>
 
 #### 🚀 DevOps & Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
